@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-u-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="m-u-hasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-u-hasan" alt="m-u-hasan" /></a> </p>
-
 - 🔭 I’m currently working on [DevPulse](https://github.com/m-u-hasan/DevPulse)
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **AI-Driven Software Engineering Bootcamp — a 60+modules, production-focused curriculum built around real-world engineering standards.**
 
 - 👯 I’m looking to collaborate on [Gadget-Hub](https://github.com/m-u-hasan/Gadget-Hub)
 
 - 🤝 I’m looking for help with [Football-Ticket-Booking-DB Public](https://github.com/m-u-hasan/Football-Ticket-Booking-DB)
 
-- 👨‍💻 I'm a Full Stack Developer [in Training, currently completing an intensive AI-Driven Software Engineering Bootcamp — a 60+modules, production-focused curriculum built around real-world engineering standards. 🔧 What I'm building with: Backend (in progress): Node.js · TypeScript · Express.js · PostgreSQL · Prisma ORM · REST APIs · JWT Authentication · bcrypt · Refresh Tokens Modular Architecture (Controller → Service → Repository) Frontend (in progress): Next.js · React · Shadcn/UI · TanStack Query · TanStack Table DevOps & Tools: Docker · Docker Compose · Nginx · GitHub · Environment Config AI Integration (upcoming): LangChain · RAG Systems · Vector Databases · pgvector · Semantic Search · OpenAI API · AI Agents · n8n Automation 📍 Currently at: Module 9 of 60 Building: JWT Auth System with role-based access control, refresh token rotation, and global error handling in TypeScript. 🎯 What I'm looking for: A remote junior role where I can contribute to real products, learn from senior engineers, and grow consistently. Let's connect if you're in tech or hire developers!](in Training, currently completing an intensive AI-Driven Software Engineering Bootcamp — a 60+modules, production-focused curriculum built around real-world engineering standards. 🔧 What I'm building with: Backend (in progress): Node.js · TypeScript · Express.js · PostgreSQL · Prisma ORM · REST APIs · JWT Authentication · bcrypt · Refresh Tokens Modular Architecture (Controller → Service → Repository) Frontend (in progress): Next.js · React · Shadcn/UI · TanStack Query · TanStack Table DevOps & Tools: Docker · Docker Compose · Nginx · GitHub · Environment Config AI Integration (upcoming): LangChain · RAG Systems · Vector Databases · pgvector · Semantic Search · OpenAI API · AI Agents · n8n Automation 📍 Currently at: Module 9 of 60 Building: JWT Auth System with role-based access control, refresh token rotation, and global error handling in TypeScript. 🎯 What I'm looking for: A remote junior role where I can contribute to real products, learn from senior engineers, and grow consistently. Let's connect if you're in tech or hire developers!)
+- 👨‍💻 Looking for [A remote junior role where I can contribute to real products, learn from senior engineers, and grow consistently. Let's connect if you're in tech or hire developers!](A remote junior role where I can contribute to real products, learn from senior engineers, and grow consistently. Let's connect if you're in tech or hire developers!)
 
-- 💬 Ask me about **Node.js · TypeScript · Express.js · PostgreSQL · Prisma ORM · JWT Authentication · bcrypt · Refresh Tokens Modular Architecture**
+- 💬 Backend **Node.js · TypeScript · Express.js · PostgreSQL · Prisma ORM · JWT Authentication · bcrypt · Refresh Tokens Modular Architecture**
 
 - 📫 How to reach me **web.mahamud@gmail.com**
 
