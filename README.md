@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahamud Ul Hasan</h1>
 <h3 align="center">A passionate Fullstack developer from BD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-u-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="m-u-hasan" /> </p>
-
 - 🔭 I’m currently working on [DevPulse](https://github.com/m-u-hasan/DevPulse)
 
 - 🌱 I’m currently learning **AI-Driven Software Engineering Bootcamp — a 60+modules, production-focused curriculum built around real-world engineering standards.**
@@ -31,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-u-hasan&show_icons=true&locale=en" alt="m-u-hasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-u-hasan&" alt="m-u-hasan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-u-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="m-u-hasan" /> </p>
+
